@@ -16,7 +16,7 @@ For each news source:
 
 6. Save everything into a list.
 
-If something goes wrong, print an error but continue.
+7. If something goes wrong, print an error but continue.
 
 ## News Headline Scrapper - Workflow Diagram
 ![Workflow Diagram](news_scraper_workflow.png)
